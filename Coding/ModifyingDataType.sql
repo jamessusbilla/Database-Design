@@ -1,0 +1,5 @@
+USE AMS;
+
+
+ALTER TABLE skill
+MODIFY companionID VARCHAR(6); 
